@@ -44,3 +44,17 @@ h2 {
     font-size: 20px;
     color: azure;
 }
+
+span {
+    font-size: 10px;
+    color: rgb(176, 131, 218);
+    text-align: center;
+}
+
+p {
+    position: fixed;
+    font-size: 50px;
+    margin-top: 460px;
+    text-align: center;
+    left: 60px;
+}
