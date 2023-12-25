@@ -10,7 +10,7 @@ body {
     background-image: url('./gif-christmas-tree-21.gif');
     background-size: cover;
     background-position: center; /* Centrar verticalmente */
-    margin-top: 90px;
+    margin-top: 100px;
 }
 
 .container {
